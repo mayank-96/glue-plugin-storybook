@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+const { GlueStackPlugin } = require('./');
+
+require('@gluestack/framework')([GlueStackPlugin]);
