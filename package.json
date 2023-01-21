@@ -4,7 +4,7 @@
   "description": "Create an Storybook Application using GlueStack framework",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gluestack/glue-plugin-storybook"
+    "url": "https://github.com/mayank-96/glue-plugin-storybook"
   },
   "keywords": [
     "npm",
